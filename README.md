@@ -1,6 +1,9 @@
 # Opencv
 檔案編譯方法
-<pre>g++ 檔案名稱 -o 執行檔名稱 `pkg-config --cflags --libs opencv`</pre>
+<pre>
+編譯 $g++ 檔案名稱 -o 執行檔名稱 `pkg-config --cflags --libs opencv`
+執行 $sudo ./執行檔名稱
+</pre>
 
 
 <b>show_image</b>
