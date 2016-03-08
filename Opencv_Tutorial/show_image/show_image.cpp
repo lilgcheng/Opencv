@@ -6,6 +6,8 @@
 using namespace cv;
 using namespace std;
 
+
+//123
 int main(int argc, char **argv)
 {
 	Mat image = imread("lena.jpg", CV_LOAD_IMAGE_COLOR);
@@ -27,4 +29,4 @@ int main(int argc, char **argv)
 	waitKey(0);
 	return 0;
 }
-/////////
+
