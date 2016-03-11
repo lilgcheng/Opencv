@@ -17,3 +17,12 @@
 
 <b>color_track</b>
 <br>顏色追蹤</br>
+
+<b>image_depth</b>
+<br>顏色深度</br>
+
+<b>image_sharpen</b>
+<br圖片銳化</br>
+
+<b>image_add</b>
+<br圖片相加</br>
