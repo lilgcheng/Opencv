@@ -5,7 +5,6 @@
 執行 $sudo ./執行檔名稱
 </pre>
 
-
 <b>show_image</b>
 <br>讀取圖片</br>
 
@@ -22,7 +21,7 @@
 <br>顏色深度</br>
 
 <b>image_sharpen</b>
-<br圖片銳化</br>
+<br>圖片銳化</br>
 
 <b>image_add</b>
-<br圖片相加</br>
+<br>圖片相加</br>
