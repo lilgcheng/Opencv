@@ -25,3 +25,6 @@
 
 <b>image_add</b>
 <br>圖片相加</br>
+
+<b>find_bean</b>
+<br>尋找豆子</br>
